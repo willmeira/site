@@ -1,9 +1,11 @@
 # Configuration of Academic
 # Documentation: https://sourcethemes.com/academic/
 
+publishDir = "."
+
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://example.com/"
+baseurl = "https://jayme-jr.github.io/"
 canonifyURLs = "true"
 relativeURLs = "true"
 
