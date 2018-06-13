@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Jayme Gomes dos santos Junior</title>
-    <link>https://jayme-jr.github.io/publication/</link>
+    <link>https://jayme-jr.github.io/site/publication/</link>
     <description>Recent content in Publications on Jayme Gomes dos santos Junior</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 Jayme Gomes dos Santos Junior</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0200</lastBuildDate>
     
-	<atom:link href="https://jayme-jr.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jayme-jr.github.io/site/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
