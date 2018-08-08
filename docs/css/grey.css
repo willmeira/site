@@ -7,44 +7,44 @@
 a,
 a:visited,
 h3.article-title a:hover {
-    color: rgb(100, 100, 100);
+    color: rgb(100, 100, 100) !important;
 }
 
 a:hover {
-    color: rgb(74, 74, 74);
+    color: rgb(74, 74, 74) !important;
 }
 
 .navbar-default .navbar-nav li a:hover,
 .btn-primary,
 .btn-primary.btn-outline {
-    color: rgb(100, 100, 100);
+    color: rgb(100, 100, 100) !important;
 }
 
 /* Articles */
 
 .article-title a {
-    color: #585858;
+    color: #585858 !important;
 }
 
 .article-metadata a {
-    color: #888888;
+    color: #888888 !important;
 }
 
 .article-metadata a:hover {
-    color: rgb(100, 100, 100);
+    color: rgb(100, 100, 100) !important;
 }
 
 /* Standard buttons */
 
 .btn-primary,
 .btn-primary.btn-outline {
-    border-color: rgb(100, 100, 100);
+    border-color: rgb(100, 100, 100) !important;
 }
 
 /* Hover buttons */
 
 .btn-primary.btn-outline:hover {
-    border-color: rgb(100, 100, 100);
+    border-color: rgb(100, 100, 100) !important;
 }
 
 .btn-primary:hover,
@@ -53,7 +53,7 @@ a:hover {
 .btn-primary.active,
 .btn-primary:visited,
 .btn-primary.btn-outline:active {
-    background-color: rgb(100, 100, 100);
+    background-color: rgb(100, 100, 100) !important;
 }
 
 /* Navbar buttons */
@@ -61,23 +61,28 @@ a:hover {
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
-  color: rgb(100, 100, 100);
-  font-weight: 700;
+  color: rgb(100, 100, 100) !important;
+  font-weight: 700 !important;
   background-color: transparent !important; /* Override Bootstrap. */
 }
 
 /* Toolbar buttons */
 
 .btn-toolbar .btn.btn-primary {
-  background: rgb(74, 74, 74);
+  background: rgb(74, 74, 74) !important;
 }
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: rgba(189, 189, 189, 1);
+  background-color: rgba(189, 189, 189, 1) !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: rgba(189, 189, 189, 1);
+  background-color: rgba(189, 189, 189, 1) !important;
 }
+
+
+
+
+
