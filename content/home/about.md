@@ -31,9 +31,10 @@ weight = 5
 
 # Biografia
 
-Sou estudante do curso de Estatística pela [Universidade Federal do Parana][1]
+<p align="justify">Sou estudante do curso de Estatística pela 
+<a href="http://www.ufpr.br/portalufpr/">Universidade Federal do Paraná</a>
 e integrante do Pet Estatística desde 2016. Tenho interesse de longa data
-na área computacional e atualmente nas ferramentas utilizadas na estatística.
+na área computacional e atualmente nas ferramentas utilizadas na estatística.</p>
 
 
 

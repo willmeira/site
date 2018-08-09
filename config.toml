@@ -64,7 +64,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "UFPR", url = "http://www.ufpr.br/portalufpr/" }, {name="PET Estatística", url=""} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "avatarjj.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "jaymegomesdossantosjunior@gmail.com"
   address = "PET Estatística, Setor de Ciências Exatas, Prédio PC, sala 09, Centro Politécnico, UFPR"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
