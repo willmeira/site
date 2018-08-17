@@ -231,8 +231,8 @@ defaultContentLanguageInSubdir = false
     link = "//gitlab.c3sl.ufpr.br/jgsj16"
   
   [[params.social]]
-    icon = "lattes"
-    icon_pack = "ai"
+    icon = "envelope-square"
+    icon_pack = "fa"
     link = "http://lattes.cnpq.br/8110213071773366"  
    # tentar sempre usar
    # icon = "lattes"
