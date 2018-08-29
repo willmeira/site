@@ -243,6 +243,15 @@ defaultContentLanguageInSubdir = false
     icon_pack = "ai"
     link = "https://www.mendeley.com/profiles/jayme-junior/"
 
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/jayme-gomes-dos-santos-junior-98173116a/"
+
+  [[params.social]]
+    icon = "contao"
+    icon_pack = "fa"
+    link = "/img/curriculum_vitae.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
