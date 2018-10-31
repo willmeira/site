@@ -228,7 +228,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//gitlab.c3sl.ufpr.br/jgsj16"
+    link = "https://github.com/jayme-jr"
   
   [[params.social]]
     icon = "envelope-square"

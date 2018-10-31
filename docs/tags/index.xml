@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 Jayme Gomes dos Santos Junior</copyright>
-    <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jayme-jr.github.io/site/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Areiãozinho</title>
-      <link>https://jayme-jr.github.io/site/tags/arei%C3%A3ozinho/</link>
-      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jayme-jr.github.io/site/tags/arei%C3%A3ozinho/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Braille</title>
@@ -31,7 +22,25 @@
     </item>
     
     <item>
-      <title>Extensão</title>
+      <title>Rifkin</title>
+      <link>https://jayme-jr.github.io/site/tags/rifkin/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jayme-jr.github.io/site/tags/rifkin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>areiãozinho</title>
+      <link>https://jayme-jr.github.io/site/tags/arei%C3%A3ozinho/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jayme-jr.github.io/site/tags/arei%C3%A3ozinho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>extensão</title>
       <link>https://jayme-jr.github.io/site/tags/extens%C3%A3o/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
@@ -40,7 +49,7 @@
     </item>
     
     <item>
-      <title>Pet</title>
+      <title>pet</title>
       <link>https://jayme-jr.github.io/site/tags/pet/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
@@ -49,7 +58,7 @@
     </item>
     
     <item>
-      <title>Post</title>
+      <title>post</title>
       <link>https://jayme-jr.github.io/site/tags/post/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
@@ -58,20 +67,11 @@
     </item>
     
     <item>
-      <title>Projetos</title>
+      <title>projetos</title>
       <link>https://jayme-jr.github.io/site/tags/projetos/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://jayme-jr.github.io/site/tags/projetos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rifkin</title>
-      <link>https://jayme-jr.github.io/site/tags/rifkin/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jayme-jr.github.io/site/tags/rifkin/</guid>
       <description></description>
     </item>
     
