@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Willian Meira Schlichta</title>
-    <link>https://jayme-jr.github.io/site/categories/</link>
+    <link>https://willmeira.github.io/sitepessoal/categories/</link>
     <description>Recent content in Categories on Willian Meira Schlichta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2019 Willian Meira Schlichta</copyright>
     
-	<atom:link href="https://jayme-jr.github.io/site/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://willmeira.github.io/sitepessoal/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

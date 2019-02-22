@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Willian Meira Schlichta</title>
-    <link>https://jayme-jr.github.io/site/home/</link>
+    <link>https://willmeira.github.io/sitepessoal/home/</link>
     <description>Recent content in Homes on Willian Meira Schlichta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2019 Willian Meira Schlichta</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jayme-jr.github.io/site/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://willmeira.github.io/sitepessoal/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://jayme-jr.github.io/site/home/about/</link>
+      <link>https://willmeira.github.io/sitepessoal/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jayme-jr.github.io/site/home/about/</guid>
+      <guid>https://willmeira.github.io/sitepessoal/home/about/</guid>
       <description>Biografia Sou estudante do curso Bacharelado em Estatística da Universidade Federal do Paraná desde 2015 e bolsista Pet desde 2018. Meu interesse pelo curso veio da possibilidade de aprimorar minhas técnicas de análise dados, uma vez que já tenho experiência no mercado de trabalho no desenvolvimento de indicadores.</description>
     </item>
     
     <item>
       <title>Projetos</title>
-      <link>https://jayme-jr.github.io/site/home/projects/</link>
+      <link>https://willmeira.github.io/sitepessoal/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>https://jayme-jr.github.io/site/home/projects/</guid>
+      <guid>https://willmeira.github.io/sitepessoal/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://jayme-jr.github.io/site/home/publications_selected/</link>
+      <link>https://willmeira.github.io/sitepessoal/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>https://jayme-jr.github.io/site/home/publications_selected/</guid>
+      <guid>https://willmeira.github.io/sitepessoal/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://jayme-jr.github.io/site/home/publications/</link>
+      <link>https://willmeira.github.io/sitepessoal/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>https://jayme-jr.github.io/site/home/publications/</guid>
+      <guid>https://willmeira.github.io/sitepessoal/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://jayme-jr.github.io/site/home/talks/</link>
+      <link>https://willmeira.github.io/sitepessoal/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>https://jayme-jr.github.io/site/home/talks/</guid>
+      <guid>https://willmeira.github.io/sitepessoal/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Textos</title>
-      <link>https://jayme-jr.github.io/site/home/posts/</link>
+      <link>https://willmeira.github.io/sitepessoal/home/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jayme-jr.github.io/site/home/posts/</guid>
+      <guid>https://willmeira.github.io/sitepessoal/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Custom Section</title>
-      <link>https://jayme-jr.github.io/site/home/teaching/</link>
+      <link>https://willmeira.github.io/sitepessoal/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>https://jayme-jr.github.io/site/home/teaching/</guid>
+      <guid>https://willmeira.github.io/sitepessoal/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://jayme-jr.github.io/site/home/tags/</link>
+      <link>https://willmeira.github.io/sitepessoal/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0300</pubDate>
       
-      <guid>https://jayme-jr.github.io/site/home/tags/</guid>
+      <guid>https://willmeira.github.io/sitepessoal/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contato</title>
-      <link>https://jayme-jr.github.io/site/home/contact/</link>
+      <link>https://willmeira.github.io/sitepessoal/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>https://jayme-jr.github.io/site/home/contact/</guid>
+      <guid>https://willmeira.github.io/sitepessoal/home/contact/</guid>
       <description></description>
     </item>
     
