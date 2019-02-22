@@ -1,35 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jayme Gomes dos santos Junior</title>
+    <title>Posts on Willian Meira Schlichta</title>
     <link>https://jayme-jr.github.io/site/post/</link>
-    <description>Recent content in Posts on Jayme Gomes dos santos Junior</description>
+    <description>Recent content in Posts on Willian Meira Schlichta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>&amp;copy; 2018 Jayme Gomes dos Santos Junior</copyright>
+    <copyright>&amp;copy; 2019 Willian Meira Schlichta</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0200</lastBuildDate>
     
 	<atom:link href="https://jayme-jr.github.io/site/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Terceira revolulção Industrial</title>
-      <link>https://jayme-jr.github.io/site/post/post_terceira_revolucao_industrial/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <title>Estatístico: uma carreira promissora</title>
+      <link>https://jayme-jr.github.io/site/post/post_carreira_estatistico/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jayme-jr.github.io/site/post/post_terceira_revolucao_industrial/</guid>
-      <description>A produtividade vem decaindo nos ultimos 20 anos no mundo todo, resultando em aumento no desemprego para a geração do novo milênio.
-Economistas preveem uma melhora lenta nos próximos 20 anos, mas após duas revoluções industriais nos séculos XIX e XX, vivemos nume realidade onde a fortuna acumulada das 80 pessoas mais ricas do mundo somadas se iguala aos ganhos de metade da população de todo planeta (aproximadamente 3,5bi). Evidenciando que há algo de errado na nossa vida econômica.</description>
-    </item>
-    
-    <item>
-      <title>Braille</title>
-      <link>https://jayme-jr.github.io/site/post/post_braille/</link>
-      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jayme-jr.github.io/site/post/post_braille/</guid>
-      <description>Em 1809, na cidade de Coupvray na França, nasceu Louis Braille. Aos 3 anos sofreu um acidente perfurando o olho esquerda com uma ferramenta, gerando uma infecção que o deixou completamente cego aos 5 anos.
-Mesmo cego se destacava na escola, conseguindo assim uma bolsa para estudar no Instituto Nacional Para Jovens Cegos em Paris. Lá utilizavam um método para leitura que consistia em letras de forma impresas em relevo em papelão para serem reconhecidas pelo tato.</description>
+      <guid>https://jayme-jr.github.io/site/post/post_carreira_estatistico/</guid>
+      <description>Bacharelado em Estatística
+O segundo semestre de 2018 terminou com cerca de 13 milhões de desempregados no Brasil, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE). No entanto, há uma grande procura por profissionais que saibam coletar, organizar e interpretar dados para sustentar a tomada de decisão em qualquer instituição. Esse é o resumo do que sabe fazer um Estatístico.
+Na contramão da crise, bacharéis em Estatística possuem boas perspectivas em quesitos como renda e possibilidades de ascensão.</description>
     </item>
     
   </channel>

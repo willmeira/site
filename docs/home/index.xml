@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Jayme Gomes dos santos Junior</title>
+    <title>Homes on Willian Meira Schlichta</title>
     <link>https://jayme-jr.github.io/site/home/</link>
-    <description>Recent content in Homes on Jayme Gomes dos santos Junior</description>
+    <description>Recent content in Homes on Willian Meira Schlichta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>&amp;copy; 2018 Jayme Gomes dos Santos Junior</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0300</lastBuildDate>
+    <copyright>&amp;copy; 2019 Willian Meira Schlichta</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jayme-jr.github.io/site/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,10 @@
     <item>
       <title></title>
       <link>https://jayme-jr.github.io/site/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://jayme-jr.github.io/site/home/about/</guid>
-      <description>Biografia Sou estudante do curso de Estatística pela Universidade Federal do Paraná e integrante do Pet Estatística desde 2016. Tenho interesse de longa data na área computacional e atualmente nas ferramentas utilizadas na estatística.</description>
+      <description>Biografia Sou estudante do curso Bacharelado em Estatística da Universidade Federal do Paraná desde 2015 e bolsista Pet desde 2018. Meu interesse pelo curso veio da possibilidade de aprimorar minhas técnicas de análise dados, uma vez que já tenho experiência no mercado de trabalho no desenvolvimento de indicadores.</description>
     </item>
     
     <item>
