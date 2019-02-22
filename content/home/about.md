@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2016-04-20T00:00:00Z
 
 # Order that this section will appear in.
 weight = 5
@@ -10,31 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Estatística Computacional",
-    "Data Science",
-    "Documentos Dinâmicos",
-    "Text Mining"
+    "Data science e Banco de dados",
+    "Estatística computacional",
+    "Modelagem estatística",
+	  "Bioestatística",
+    "Mobilidade urbana e estatística espacial",
+    "Análise Sensorial",
+    "Inferência Bayesiana"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Graduando em Estatística"
   institution = "UFPR"
-  year = 2016
+  year = 2015
 
 [[education.courses]]
-  course = "Bacharelado em Sistemas de Informação - Incompleto"
-  institution = "SPEI"
-  year = 2013 
+  course = "Tecnologia em Sistemas de Informação - Incompleto"
+  institution = "UTFPR-PG"
+  year = 2002 
   
 +++
 
 # Biografia
 
-<p align="justify">Sou estudante do curso de Estatística pela 
-<a href="http://www.ufpr.br/portalufpr/">Universidade Federal do Paraná</a>
-e integrante do Pet Estatística desde 2016. Tenho interesse de longa data
-na área computacional e atualmente nas ferramentas utilizadas na estatística.</p>
+<p align="justify">Sou estudante do curso <a href="http://www.coordest.ufpr.br/" target="_blank"> Bacharelado em Estatística</a> da <a href="http://www.ufpr.br/portalufpr/" target="_blank">Universidade Federal do Paraná</a> desde 2015 e bolsista Pet desde 2018. Meu interesse pelo curso veio da possibilidade de aprimorar minhas técnicas de análise dados, uma vez que já tenho experiência no mercado de trabalho no desenvolvimento de indicadores.</p>
 
 
 

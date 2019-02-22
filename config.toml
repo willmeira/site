@@ -11,11 +11,11 @@ relativeURLs = "true"
 
  
 # Title of your site
-title = "Jayme Gomes dos santos Junior"
+title = "Willian Meira Schlichta"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018 Jayme Gomes dos Santos Junior"
+copyright = "&copy; 2019 Willian Meira Schlichta"
 
 theme = "academic"
 enableEmoji = true
@@ -49,26 +49,26 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "dark"
+  color_theme = "forest"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "classic"
 
   # Your details.
-  name = "Jayme Jr"
-  role = "Graduando em Estatística"
+  name = "Willian Meira"
+  role = "Graduando em Estatística e Bolsista"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="PET Estatística", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "UFPR", url = "http://www.ufpr.br/portalufpr/" }, {name="PET Estatística", url=""} ]
+  organizations = [ { name = "UFPR", url = "http://www.ufpr.br/portalufpr/" }, {name="PET Estatística", url="https://pet-estatistica.github.io/site/"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "avatarjj.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "jaymegomesdossantosjunior@gmail.com"
-  address = "PET Estatística, Setor de Ciências Exatas, Prédio PC, sala 09, Centro Politécnico, UFPR"
+  avatar = "avatar-will.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "willian0283@gmail.com"
+  address = "PET Estatística, Setor de Ciências Exatas, Sala PC-09, Centro Politécnico, UFPR"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  #phone = "(41)99694-4415"
+  #phone = "(41)99667-7976"
   #skype = ""
   #telegram = ""
 
@@ -223,17 +223,17 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:jaymegomesdossantosjunior@gmail.com"  
+    link = "mailto:willian0283@gmail.com"  
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "https://github.com/jayme-jr"
+    link = "https://github.com/willmeira"
   
   [[params.social]]
     icon = "envelope-square"
     icon_pack = "fa"
-    link = "http://lattes.cnpq.br/8110213071773366"  
+    link = "http://lattes.cnpq.br/9791153703498457"  
    # tentar sempre usar
    # icon = "lattes"
    # icon_pack = "ai"
@@ -241,12 +241,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "mendeley"
     icon_pack = "ai"
-    link = "https://www.mendeley.com/profiles/jayme-junior/"
+    link = "https://www.mendeley.com/profiles/willian-meira-schlichta/"
 
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "https://www.linkedin.com/in/jayme-gomes-dos-santos-junior-98173116a/"
+    link = "https://www.linkedin.com/in/willian-meira-schlichta-ab33552b/"
 
   [[params.social]]
     icon = "contao"
@@ -273,14 +273,19 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "textos"
+  name = "Textos"
   url = "#posts"
   weight = 3
 
 [[menu.main]]
+  name = "Links"
+  url = "#links"
+  weight = 4
+
+[[menu.main]]
   name = "Contato"
   url = "#contact"
-  weight = 4
+  weight = 5
 
 
 
